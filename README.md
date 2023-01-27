@@ -16,4 +16,4 @@ This exploratory project answers below questions:
 --Show the percentage of the population that has been fully vaccinated
 --Show the percentage of the population that has been fully vaccinated
 ```
-https://github.com/callmarkforIT/Projects/blob/main/covid.jpg?raw=true
+![375CCFBB-71E5-4040-AE2E-A79D9FD04E6E] (https://github.com/callmarkforIT/Projects/blob/main/covid.jpg?raw=true)
